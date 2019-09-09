@@ -111,6 +111,7 @@ class ExcelUtils(object):
         wb.save('./static/export.xlsx')
 
 
+
 if __name__ == '__main__':
     client = ExcelUtils()
     # client.do_sth()

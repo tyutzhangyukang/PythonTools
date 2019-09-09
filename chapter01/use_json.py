@@ -43,8 +43,17 @@ def json_to_python_from_file():
 
     f.close()
 
+def json_to_python_from_file_zyk():
+    """从文件读取内容，并转换成Python对象"""
+    f = open('./static/myzichan.json','r',encoding='utf-8')
+    s = f.read()
+    print(s)
+    rest = json.loads(s)
+    print(rest)
+
+    f.close()
 
 if __name__ == '__main__':
     python_to_json()
     #json_to_python()
-    # json_to_python_from_file()
+    json_to_python_from_file_zyk()
