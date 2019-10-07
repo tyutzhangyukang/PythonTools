@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e0bd781-935a-48a0-b3be-3ea42eec7031" name="默认的" comment="默认的">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter01/interview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter01/linshi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter01/static/myzichan.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/static/temp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/static/template.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/static/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/use_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/ust_with.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facetest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonTools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonTools.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_shijian/sql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider_1haodian.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/spider_1haodian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/spider_book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider_dangdang.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/spider_dangdang.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider_jingdong.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/spider_jingdong.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider_oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/spider_oop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider_taobao.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/spider_taobao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/static/book.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/use_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/use_requests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/use_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_str2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/use_str2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_xpath_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/use_xpath_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/资料/coding-240-master/coding-240/chapter02/use_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/资料/coding-240-master/coding-240/chapter02/use_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter02/use_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/use_excel.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.use_excel">
+  <component name="RunManager" selected="Python.sql">
     <configuration name="photon" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTools" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +95,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Photon/photon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_shijian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_shijian/sql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,35 +191,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zyk_color_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonTools" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../PyTools/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Photon" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Photon/zyk_color_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sql" />
         <item itemvalue="Python.use_excel" />
         <item itemvalue="Python.ust_with" />
         <item itemvalue="Python.use_json" />
         <item itemvalue="Python.photon" />
-        <item itemvalue="Python.zyk_color_test" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +225,7 @@
       <workItem from="1566962253993" duration="625000" />
       <workItem from="1567159864506" duration="19737000" />
       <workItem from="1568026120727" duration="946000" />
-      <workItem from="1568027082329" duration="1390000" />
+      <workItem from="1568027082329" duration="5698000" />
     </task>
     <task id="LOCAL-00001" summary="默认的">
       <created>1565536748456</created>
@@ -259,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565536748456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="默认的">
+      <created>1568029663765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568029663765</updated>
+    </task>
+    <task id="LOCAL-00003" summary="默认的">
+      <created>1568029730339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568029730339</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +287,7 @@
     <SUITE FILE_PATH="coverage/PythonTools$spider_book.coverage" NAME="spider_book Coverage Results" MODIFIED="1565440350068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonTools$spider_1haodian.coverage" NAME="spider_1haodian Coverage Results" MODIFIED="1565367873723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonTools$spider_taobao.coverage" NAME="spider_taobao Coverage Results" MODIFIED="1565370004773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonTools$use_excel.coverage" NAME="use_excel Coverage Results" MODIFIED="1568027871122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
+    <SUITE FILE_PATH="coverage/PythonTools$use_excel.coverage" NAME="use_excel Coverage Results" MODIFIED="1568084890414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/PythonTools$use_xpath_demo.coverage" NAME="use_xpath_demo Coverage Results" MODIFIED="1564828087981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonTools$spider_jingdong.coverage" NAME="spider_jingdong Coverage Results" MODIFIED="1565408939620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonTools$zyk_color_test.coverage" NAME="zyk_color_test Coverage Results" MODIFIED="1565679290640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Photon" />
@@ -306,5 +295,6 @@
     <SUITE FILE_PATH="coverage/PythonTools$spider_dangdang.coverage" NAME="spider_dangdang Coverage Results" MODIFIED="1565440170428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonTools$photon.coverage" NAME="photon Coverage Results" MODIFIED="1565679307741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Photon" />
     <SUITE FILE_PATH="coverage/PythonTools$spider_oop.coverage" NAME="spider_oop Coverage Results" MODIFIED="1565652607082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonTools$sql.coverage" NAME="sql Coverage Results" MODIFIED="1568085798337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_shijian" />
   </component>
 </project>
